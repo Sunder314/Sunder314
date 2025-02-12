@@ -1,19 +1,3 @@
-## Hi there 👋
-<!--
-**Sunder314/Sunder314** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Bonjour, je suis Gaspar 👋
 
 ## À propos de moi
@@ -29,8 +13,25 @@ Je suis un développeur passionné par l'IA. Actuellement, je me concentre sur l
 
 ## 💼 Compétences
 ```plaintext
-💻 Langages de programmation : 
-🛠️ Frameworks & Outils : 
-🗄️ Bases de données : 
-🎨 Design :
+💻 Langages de programmation : JAVA, PYTHON, SYMFONY/PHP, JAVASCRIPT/HTML/CSS.
+🛠️ Frameworks & Outils : ANGULAR, 
+🗄️ Bases de données : MYSQL, SQL SERVEUR MANAGEMENT, SQL LIGHT.
+🎨 Design : FIGMA, WORLDPRESS
 ```
+## 📫 Contact
+- LinkedIn : https://www.linkedin.com/in/gaspar-sundermann-ia-d%C3%A9veloppement/
+- Email: gasparsundermann@gmail.com
+- Site web: https://sunder314.github.io/Portfolio/#home
+
+## 📊 Statistiques GitHub
+![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Sunder314&show_icons=true&theme=radical)
+
+## 🤝 Collaboration
+- 👯 Je cherche à collaborer sur des projets innovant concernat le secteur de l'IA.
+- 🤔 Actuellement en stage chez ECWEBDESIGN, je crée des sites internet de qualités, n'hesitez à me contacter. 
+
+## ⚡ Fun fact
+Passioné de sport je pratique le tennis et j'essaie de jouer aux échecs. 
+
+---
+*N'hésitez pas à me contacter pour discuter de projets passionnants !*
